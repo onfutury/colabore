@@ -1,0 +1,2 @@
+<?php
+// Exemplo PHP
